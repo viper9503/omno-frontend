@@ -1,0 +1,3 @@
+- [omno-frontend stack](project_stack.md) — Expo 54 time tracking app; feature-based arch with Zustand, NativeWind, RN Reusables
+- [iOS and Android only](feedback_platforms.md) — Web is deprioritized; only target iOS and Android
+- [Consistent page layout](feedback_page_layout.md) — All screens must use a shared base page wrapper with padding/layout defaults
